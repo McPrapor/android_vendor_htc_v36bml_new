@@ -10,8 +10,7 @@
 #    socket sap_uim_socket2 stream 660 bluetooth bluetooth
 #    socket sap_uim_socket3 stream 660 bluetooth bluetooth
 #    socket sap_uim_socket4 stream 660 bluetooth bluetooth
-##    user radio
-#    user root
+#    user radio
 #    group radio cache inet misc audio log readproc wakelock
 #    capabilities BLOCK_SUSPEND NET_ADMIN NET_RAW
 #    oneshot
